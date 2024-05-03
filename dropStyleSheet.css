@@ -1,0 +1,8 @@
+.choice-box .label {
+    -fx-text-fill: white;
+}
+
+/* styles.css */
+.choice-box .menu-item > .label {
+    -fx-background-color: #121213;
+}
