@@ -3,6 +3,9 @@
 This is my final project for CSCE-314. We were tasked with recreating wordle, and I tried to replicate it as close as possible while meeting the requirements of the assignment.
 The GUI elements were built with JavaFX & SceneBuilder, and some styles were explicitly edited with Css files. The controllers and Main were built on Java.
 
+# NOTE:
+I wasnt able to upload all dependencies because github doesnt let me upload files larger than 25 megabytes, but I promise it works (see Youtube Link)
+
 # Features:
     - Two Scenes: Menu and Game Scene, both with dynamic Labels and Buttons.
     - Save Feature: Ability to create and load existing saves. Ease of access with dropdown menu.
